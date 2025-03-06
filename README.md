@@ -146,7 +146,7 @@ Overall, this smart contract provides a way to track the various stages of a pha
 ## Connect Meta Musk with Ganache. 
 
 ![https://media.licdn.com/dms/image/C4D12AQHMatPDpLjwkA/article-cover_image-shrink_720_1280/0/1547586411238?e=2147483647&v=beta&t=UDYOS05BSkdrYoGOR5LW7v2uHz1Sca5uNzzWLrQG1nk](https://media.licdn.com/dms/image/C4D12AQHMatPDpLjwkA/article-cover_image-shrink_720_1280/0/1547586411238?e=2147483647&v=beta&t=UDYOS05BSkdrYoGOR5LW7v2uHz1Sca5uNzzWLrQG1nk)
-1. Start Ganache: Start the Ganache application and make note of the RPC server URL and port number.
+1. Start Ganache: Start the Ganache application and make note of the RPC server URL and port number (MAke sure the port number is 7545 and the CHain is 1337 In Ganche as well as Metamask ).
 
 1. Connect MetaMask: Open MetaMask in your browser and click on the network dropdown in the top-right corner.
 ![https://metamask.zendesk.com/hc/article_attachments/10080831633947](https://metamask.zendesk.com/hc/article_attachments/10080831633947)![https://kimsereylam.com/assets/posts/2022-02-25-setup-local-development-blockchain-with-ganache/ganache_network.png](https://kimsereylam.com/assets/posts/2022-02-25-setup-local-development-blockchain-with-ganache/ganache_network.png)
