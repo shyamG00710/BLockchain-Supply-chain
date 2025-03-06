@@ -150,7 +150,7 @@ Overall, this smart contract provides a way to track the various stages of a pha
 
 1. Connect MetaMask: Open MetaMask in your browser and click on the network dropdown in the top-right corner.
 ![https://metamask.zendesk.com/hc/article_attachments/10080831633947](https://metamask.zendesk.com/hc/article_attachments/10080831633947)![https://kimsereylam.com/assets/posts/2022-02-25-setup-local-development-blockchain-with-ganache/ganache_network.png](https://kimsereylam.com/assets/posts/2022-02-25-setup-local-development-blockchain-with-ganache/ganache_network.png)
-Select "Custom RPC" and enter the RPC server URL and port number for your Ganache instance. Click "Save".
+Select "Custom RPC" and enter the RPC server URL and port number for your Ganache instance. in the ganache make sure the Chain id is "1337" then Click "Save".
 
 1. Import an account: In Ganache, click on the "Accounts" tab and select the first account listed. Click on the "Copy" button next to the "Private Key" field copy the private key.
      ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSc_d4naUQwI8qo8ClC1NXa4aJA7blvrgn4Xq1looUOiWY3wTGd5x8g5fgCrMzyrOzQ8&usqp=CAUto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoSc_d4naUQwI8qo8ClC1NXa4aJA7blvrgn4Xq1looUOiWY3wTGd5x8g5fgCrMzyrOzQ8&usqp=CAU)
@@ -158,6 +158,8 @@ Select "Custom RPC" and enter the RPC server URL and port number for your Ganach
 
      ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs76Q1oyMK717kRZ8FMC_i2VCstu8H2yZFqlfgccSsalxBXWm2PBwzS-peIFv4DqGos9g&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs76Q1oyMK717kRZ8FMC_i2VCstu8H2yZFqlfgccSsalxBXWm2PBwzS-peIFv4DqGos9g&usqp=CAU)
  3. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step
+
+IOT - For monitoring Temprature and Humidity and give alert to the User -- https://wokwi.com/projects/424422620065152001
 
 
 ## Documentation to help with Solidity
